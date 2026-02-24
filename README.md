@@ -22,7 +22,7 @@ I do code yes yes
 </details>
 <!-- Languages / Tools -->
 # My Operating System
-Windows 11 Pro edition
+Windows 10 Pro edition
 
 <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/windows.svg" width=50 height=50>
 
