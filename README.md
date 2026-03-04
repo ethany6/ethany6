@@ -42,7 +42,7 @@ Javascript is the one that I first started working with on the Qbcore. Later I s
 
 <!-- Contact Me -->
 # Get in contact
-Discord: https://discord.com/users/342967225940049922
+Discord: Soon
 
 
 
